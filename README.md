@@ -2,7 +2,7 @@
 Quantitative analysis of Sugar No.11 futures structure using Python and Cost of Carry model
 
 # Why this project?
-I built this tool because I am passionate about commodity markets. I wanted to move beyond Excel and use Python to visualize what's really happening in the Sugar market (SB=F).
+I built this tool to satisfy my curiosity about the mechanics of commodity markets. I wanted to move beyond Excel and use Python to visualize what's really happening in the Sugar market (SB=F).
 This project was done for educational purposes: to practice my coding skills and apply the Cost of Carry theory to real-world data.
 
 ---
